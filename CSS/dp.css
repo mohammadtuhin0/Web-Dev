@@ -1,0 +1,17 @@
+/* div {
+    background-color: bisque;
+    display: inline;
+}
+
+button {
+    display: block;
+} */
+
+div {
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    padding: 25px;
+    /* border-radius: 30px; */
+    display: inline-block;
+}
