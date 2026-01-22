@@ -1,0 +1,36 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+/* #box1 {
+    position: static;
+    background-color: red;
+}
+
+#box2 {
+    position: relative;
+    top: 10px;
+    background-color: yellow;
+}
+
+#box3 {
+    position: absolute;
+    background-color: blue;
+    left: 10px;
+}
+
+#box4 {
+    background-color: brown;
+    position: fixed;
+    right: 10px;
+} */
+
+#box1 {
+    background-image: url("picture.jpg");
+    background-size: cover;
+
+}
