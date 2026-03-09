@@ -1,0 +1,24 @@
+h2 {
+    background-color: burlywood;
+    color: brown;
+}
+
+#text-paragraph {
+    font-size: 23px;
+    color: salmon;
+}
+
+.mcq {
+    color: blue;
+    background-color: yellow;
+}
+
+.written {
+    background-color: black;
+}
+
+* {
+    border-width: 1px;
+    border-color: rgb(0, 8, 8);
+    border-style: solid;
+}
